@@ -24,11 +24,11 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+track flies body angle position over time and display it in a circular graph
+I will use the program ctrax to analyse the videos and get the values which will be ploted using R or matlab
+I will use a sample fly video
 
-The methods I will use to do this are...
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
 
 ## Methods
 
