@@ -1,0 +1,72 @@
+Taxon+EB3:E46	Accession #	λmax(nm)	λmax Reference
+Mollusca Rh			
+    Cephalopoda			
+        Loligo forbesi	X56788	494	Morris et al. (1993)
+        Loligo pealii	AY450853	493	Brown PK and Brown PS (1958), Hubbard and St George (1958)
+        Loligo subulata	Z49108	499	Morris et al. (1993)
+        Sepia officinalis	AF000947	492	Brown PK and Brown PS (1958)
+        Todarodes pacificus	X70498	480	Naito et al. (1981)
+        Enteroctopus dofleini	X07797	475	Koutalos et al. (1989)
+Arthropoda LWS			
+    Chelicerata			
+        Limulus polyphemus (lateral eye)	L03781	520	Hubbard and Wald (1960)
+        L. polyphemus(ocelli)	L03782	530	Nolte and Brown (1972)
+    Crustacea			
+        Euphausia superba	DQ852576	487	Frank and Widder (1999)
+        Homarus gammarus	DQ852587	515	Kent (1997)
+        Cambarellus shufeldtii	AF003544	526	Crandall and Cronin (1997)
+        Cambarus ludovicianus	AF003543	529	Crandall and Cronin (1997)
+        Orconectes virilis	AF003545	530	Goldsmith (1978), Cronin and Goldsmith (1982)
+        Procambarus milleri	AF003546	522	Cronin and Goldsmith (1982), Crandall and Cronin (1997)
+        Procambarus clarkii	S53494	533	Zeiger and Goldsmith (1994)
+        Archaeomysis grebnitzkii	DQ852573	496	This study
+        Holmesimysis costata	DQ852581	512	This study
+        Mysis diluviana	DQ852591	501	This study
+        Neomysis americana	DQ852592	520	This study
+        Neogonodactylus oerstedii Rh1	DQ646869	489	Cronin and Marshall (1989)
+        N. oerstedii Rh2	DQ646870	528	Cronin and Marshall (1989)
+        N. oerstedii Rh3	DQ646871	522	Cronin and Marshall (1989)
+    Insecta			
+        Manduca sexta	L78080	520	White et al. (1983)
+        Spodoptera exigua	AF385331	515	Langer et al. (1979)
+        Galleria mellonella	AF385330	510	Goldman et al. (1975)
+        Papilio xuthusRh1	AB007423	520	Arikawa et al. (1987, 1999), Kitamoto et al. (1998)
+        P. xuthus Rh2	AB007424	520	Arikawa et al. (1987, 1999), Kitamoto et al. (1998)
+        P. xuthus Rh3	AB007425	575	Arikawa et al. (1987, 1999), Kitamoto et al. (1998)
+        Pieris rapae	AB177984	540	Ichikawa and Tateda (1982)
+        Vanessa cardui	AF385333	530	Briscoe et al. (2003)
+        Junonia coenia	AF385332	510	Briscoe (2001)
+        Heliconius erato	AF126750	570	Struwe (1972)
+        Heliconius sara	AF126753	550	Struwe (1972)
+        Bicyclus anynana	AF484249	560	Vanhoutte et al. (2002)
+        Camponotus abdominalis	U32502	510	Popp et al. (1996)
+        Cataglyphis bombycinus	U32501	510	Popp et al. (1996)
+        Apis mellifera	U26026	529 m, 540 f	Peitsch et al. (1992)
+        Bombus terrestris	AY485301	529	Peitsch et al. (1992)
+        Osmia rufa	AY572828	553	Peitsch et al. (1992)
+        Schistocerca gregaria	X80071	520	Gartner and Towner (1995)
+        Sphodromantissp.	X71665	515*	Rossel (1979)
+Arthropoda MWS			
+    Crustacea			
+        Hemigrapsus sanguineus	D50583	480	Sakamoto et al. (1996)
+    Insecta			
+        Drosophila melanogaster Rh6	Z86118	508	Salcedo et al. (1999)
+        D. melanogasterRh1	AH001026	478	Feiler et al. (1988)
+        Calliphora erythrocephala Rh1	M58334	490	Paul et al. (1986)
+        D. melanogasterRh2	M12896	420	Feiler et al. (1988)
+Insecta blue			
+    S. gregaria	X80072	430	Gartner and Towner (1995)
+    M. sexta	AD001674	450	White et al. (1983)
+    P. xuthus Rh4	AB028217	460	Eguchi et al. (1982), Arikawa et al. (1987)
+    A. mellifera	AF004168	439	Townson et al. (1998)
+    D. melanogaster Rh5	U67905	437	Salcedo et al. (1999)
+Insecta UV			
+    A. mellifera	AF004169	353	Townson et al. (1998)
+    C. abdominalis	AF042788	360	Smith et al. (1997)
+    C. bombycinus	AF042787	360	Smith et al. (1997)
+    M. sexta	L78081	357	White et al. (1983)
+    P. xuthus Rh5	AB028218	—	—
+    D. melanogaster Rh4	AH001040	375	Feiler et al. (1992)
+    D. melanogaster Rh3	M17718	345	Feiler et al. (1992)
+Outgroups			
+    Bos taurus rhodopsin	AH001149	—	—
