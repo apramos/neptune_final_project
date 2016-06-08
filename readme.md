@@ -1,46 +1,40 @@
 # Neptune Computational Biology - Final Project Patricia
 
-## Guidelines - you can delete this section before submission
-
-This repository is a stub for your final project. Fork it, develop your project, and submit it as a pull request. Edit/ delete the text in this readme as needed.
-
-Some guidelines and tips:
-
-- Use the stubs below to write up your final project.
-
-- For information on formatting text files with markdown, see https://guides.github.com/features/mastering-markdown/ . You can use markdown to include images in this document by linking to files in the repository, eg `![Figure 1](./Figure1.png?raw=true)`.
-
-- The project must be entirely reproducible. In addition to the results, the repository must include all the data (or links to data) and code needed to reproduce the results.
-
-- If you are working with unpublished data that you would prefer not to publicly share at this time, please contact me to discuss options. In most cases, the data can be anonymized in a way that putting them in a public repo does not compromise your other goals.
-
-- Paste references (including urls) into the reference section, and cite them with the general format (Smith at al. 2003).
-
-- Commit and push often as you work.
-
-OK, here we go.
-
-# Title of my project
+# Parhyale Opsins - where do they stand?
 
 ## Introduction and Goals
+Light information is detected by visual pigments composed of a chromophore bound to a transmembrane protein, the opsins. Opsins are able to absorb photons from a given wavelenght and produce action potentials. Different opsins are sensitive to a different wavelenght.
+In vertebrates this spectral tunning can be associated with differences in a.a. sequence. However in invertebrates this is not yet the case and therefore most studies use comparative methods to id potencial sites involved in spectral tunning.           
 
-track flies body angle position over time and display it in a circular graph
-I will use the program ctrax to analyse the videos and get the values which will be ploted using R or matlab
-I will use a sample fly video
+There are 3 main classe of spectral sensitivity in arthropods:
+LWS - long wavelenght sensitivity
+MWS - middle wavelenght sensitivity
+SWS - short wavelenght sensitivity
+
+
+Pahyale hawaiensis is an amphipod crustacean recently established as model organism for evo-devo and regeneration studies. Parhyale has an apposition compound eye and transcriptome analyis indicates that there are 2 opsins.
+
+I will build a phylogenetic tree using sequence data from already described arthropod opsin sequences and undescribed Parhyale hawaeinsis opsin sequences. Knowing the hypotetical phylogenetic position of Parhyale's opsins might give indications about their absorbance spectrum.
 
 
 
-## Methods
+## Methods 
+###Pipeline
 
-The tools I used were... See analysis files at (links to analysis files).
+choose species
+get opsin data sequence from NCBI (based on Porter et al 2006)
+translate nucl. sequence
+build a.a and nucl. alignment using MAFFT
+generate a.a. and nucl. tree
+
 
 ## Results
 
-![Figure 1](./Figure1.png?raw=true)
-
-In Figure 1...
+still working
 
 ## Discussion
+
+coming next:
 
 These results indicate...
 
