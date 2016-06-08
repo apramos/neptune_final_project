@@ -22,10 +22,15 @@ I will build a phylogenetic tree using sequence data from already described arth
 ###Pipeline
 
 choose species
+
 get opsin data sequence from NCBI (based on Porter et al 2006)
+
 translate nucl. sequence
+
 build a.a and nucl. alignment using MAFFT
+
 generate a.a. and nucl. tree
+
 
 
 ## Results
