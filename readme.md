@@ -22,8 +22,13 @@ I will build a phylogenetic tree using sequence data from already described arth
 ###Pipeline
 
 choose species
+	based on the paper Porter et al 2006
 
-get opsin data sequence from NCBI (based on Porter et al 2006)
+get opsin data sequence from NCBI 
+	- acession numbers were copied from the original porter paper and the sequences were bulk downloaded from NCBI
+	- headers were very messy so I used:
+		shorth.py script to reduce the headers to have only the acession number
+		headers2 script to change the headers to wavelenght+species names, based on a dictionary
 
 translate nucl. sequence
 
